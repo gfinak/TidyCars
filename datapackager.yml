@@ -1,0 +1,8 @@
+configuration:
+  files:
+    tidy_cars.Rmd:
+      enabled: yes
+  objects:
+  - tidy_cars
+  render_root:
+    tmp: '783987'

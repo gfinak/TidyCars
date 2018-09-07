@@ -1,0 +1,29 @@
+TRACE [2018-09-07 14:44:29] Logging to /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/inst/extdata/Logfiles/processing.log
+TRACE [2018-09-07 14:44:29] Processing data
+TRACE [2018-09-07 14:44:29] Reading yaml configuration
+TRACE [2018-09-07 14:44:29] Found /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/data-raw/tidy_cars.Rmd
+TRACE [2018-09-07 14:44:29] Processing 1 of 1: /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/data-raw/tidy_cars.Rmd
+
+TRACE [2018-09-07 14:44:29] 1 data set(s) created by tidy_cars.Rmd
+TRACE [2018-09-07 14:44:29] NEWS.md file not found, creating!
+TRACE [2018-09-07 14:44:29] Saving to data
+TRACE [2018-09-07 14:44:29] Copied documentation to /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/R/TidyCars.R
+TRACE [2018-09-07 14:44:29] Done
+TRACE [2018-09-07 14:44:29] DataPackageR succeeded
+TRACE [2018-09-07 14:44:29] Building documentation
+TRACE [2018-09-07 14:44:30] Building package
+TRACE [2018-09-07 14:44:35] Rebuilding data package documentation.
+TRACE [2018-09-07 14:44:37] Logging to /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/inst/extdata/Logfiles/processing.log
+TRACE [2018-09-07 14:44:37] Processing data
+TRACE [2018-09-07 14:44:37] Reading yaml configuration
+TRACE [2018-09-07 14:44:37] Found /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/data-raw/tidy_cars.Rmd
+TRACE [2018-09-07 14:44:37] Processing 1 of 1: /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/data-raw/tidy_cars.Rmd
+
+TRACE [2018-09-07 14:44:37] 1 data set(s) created by tidy_cars.Rmd
+TRACE [2018-09-07 14:44:37] Processed data sets match existing data sets at version 0.1.0
+TRACE [2018-09-07 14:44:37] Saving to data
+TRACE [2018-09-07 14:44:37] Copied documentation to /private/var/folders/jh/x0h3v3pd4dd497g3gtzsm8500000gn/T/Rtmp2FAi8h/TidyCars/R/TidyCars.R
+TRACE [2018-09-07 14:44:37] Done
+TRACE [2018-09-07 14:44:37] DataPackageR succeeded
+TRACE [2018-09-07 14:44:37] Building documentation
+TRACE [2018-09-07 14:44:37] Building package

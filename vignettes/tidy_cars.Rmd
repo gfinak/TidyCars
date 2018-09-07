@@ -1,0 +1,19 @@
+---
+title: Process cars into tidy_cars.
+author: Greg Finak
+date: September 5, 2018
+output_format: html_document
+vignette: >
+  %\VignetteIndexEntry{Process cars into tidy_cars.}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r}
+library(dplyr)
+cars <- read.csv(project_extdata_path('cars.csv'))
+tidy_cars <- cars %>% rename(speed_mph = speed, stopping_distace = dist)
+```
+Followed by a description of what we are doing.
+
+
